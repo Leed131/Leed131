@@ -5,7 +5,7 @@
 Before AI, I spent 13 years as an architect working with building regulations and planning documents. Now I bring the same discipline to LLM systems: every output should be traceable to its source and checked against a reference.
 
 ### What I'm working on
-- **MØSE** — founder and sole engineer of an AI product that analyzes Danish planning documents (lokalplaner) for property buyers: government data (BBR, Datafordeler, plandata.dk), document retrieval, LLM analysis and generated PDF reports. The code is private; I'm happy to demo it.
+- **MØSE** — founder and sole engineer of an AI product that analyzes Danish planning documents (lokalplaner) for property buyers: government data (BBR, Datafordeler, plandata.dk), document retrieval, LLM analysis and generated PDF reports. The code is private — see the [public showcase](https://github.com/Leed131/mose-showcase) with the pipeline, quality approach and a sample report.
 - **AI Quality Engineering** — currently learning to test and evaluate LLM bots with Arize Phoenix: tracing, evals, LLM-as-judge.
 
 ### Tech
