@@ -9,9 +9,10 @@ Before AI, I spent 11 years as an architect working with building regulations an
 - **AI Quality Engineering** — currently learning to test and evaluate LLM bots with Arize Phoenix: tracing, evals, LLM-as-judge.
 
 ### Tech
-Python · FastAPI · OpenAI API · LangChain / RAG · Arize Phoenix · Docker · aiogram · Make.com · Azure AI Foundry · Copilot Studio
+Python · FastAPI · PostgreSQL · OpenAI API · LangChain / RAG · Arize Phoenix · Docker · aiogram · Make.com · Azure AI Foundry · Copilot Studio
 
 ### Selected projects
+- [Event Assistant Bot](https://github.com/Leed131/event_assistant_bot) — personal event radar on Telegram: watches event sites by your interests, saves tickets, adds events to your calendar (Python, PostgreSQL, FastAPI, Docker, CI)
 - [English Mentor Bot](https://github.com/Leed131/english-mentor-bot) — multimodal Discord bot with text, voice and image input
 - Course work on LLM evaluation and tracing — see pinned repositories
 
